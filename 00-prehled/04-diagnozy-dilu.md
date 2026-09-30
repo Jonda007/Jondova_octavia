@@ -6,6 +6,7 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 - Rovnoměrný šedý závoj bez ostrých hranic = oxidace = leštitelné. Skvrny s tvrdými hranicemi = odlupování čirého laku = neleštitelné, chce lak.
 - Suché fotky nesou diagnózu, mokré ne (voda vyplní mikrodrsnost i na mrtvém laku, a na fotkách nebyla rovnoměrně smočená).
 - Kritérium "pad zčerná = báze" nestačí. Spolehlivější je druhý průchod: když se to zlepší, je do čeho řezat.
+- Nehtový test na hloubku škrábance: nehet kolmo přes škrábanec. Zachytí se = jde skrz čirý lak a nevyleští se. Nezachytí se = jde o swirl nebo mělký škrábanec v čirém, ten se vyleští.
 - Test třemi bílými utěrkami (B9.01, 20 kroužků, 3 utěrky): postupné světlání = čirý lak zbývá, všechny stejně tmavé = báze.
 - Plnič po broušení, kontrola baterkou z boku (27. 9.): šedý mrak, přes který je vidět plnič = tenká vrstva, OK. Stříbrný lesk = plech, béžová = tmel, černá/rezavá = konvertor. Černé tečky v důlcích = zbytek vodicí vrstvy (dobrousit).
 
@@ -13,6 +14,7 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 - [POTVRZENO] Čirý lak žije, ostrý odraz. Stačí leštit dvoukrokem (B9.01 na žlutý Fine Cut, M3.02 na fialový Micro Cut).
 - [POTVRZENO] Swirly a škrábance různé hloubky. Pod klikou předních dveří ostré bílé škrábance skrz čirý. Dole u lišty předních dveří dlouhý škrábanec s přenosem barvy.
 - Přední blatníky: [POTVRZENO] velké díry od rzi (dle dřívějších popisů), Jonda ale říká, že blatníky jsou "v pohodě", rez jen dole u prahu. Rozdíl mezi popisy zjistit.
+- [POTVRZENO] Přední blatníky Octavie I jsou ŠROUBOVANÉ, ne přivařené. Šrouby: několik v motorovém prostoru, jeden pod nárazníkem, jeden u pantu dveří, tři v mezidveřním prostoru, jeden dole u prahu. Před sundáním odstranit kryt mezi blatníkem a karoserií (2 plastové matky). Blatník se tedy dá odstříkat mimo auto, kdyby se to někdy hodilo. (Výměna za použitý z bazaru je [PŘEKONÁNO], viz 00-prehled/05.)
 
 ## Kapota
 - [POTVRZENO] Čirý lak uprostřed žije (testovací čtverec 20x20 cm, výrazný rozdíl proti okolí, po vyleštění se v laku vidí obličej).
@@ -31,6 +33,7 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 - [POTVRZENO] Čirý lak se odlupuje v plátech. Skvrnité bílé křídové ostrůvky s tvrdými hranicemi. Leštění nepomůže, chce lak.
 - Čirý je odloupnutý i na sloupku u zrcátka, na zadní hraně střechy / C sloupku matný pás s prasklinou v laku.
 - Plocha cca 1,2 m2.
+- [POTVRZENO 7. 9.] Tmavé fleky na střeše mohou být vosk z automyčky. Šedá křídová plocha ne, ta je diagnóza.
 - [TEORIE 28. 9.] Oprava jen bezbarvým (video Toyota Previa) by šla jen tam, kde je báze pod chybějícím čirým stejnoměrná. Test: kousek bez čirého P800 pod vodou a nechat mokré. Stejnoměrná černá metalíza = jen čirý může fungovat. Šedivé, flekaté, prosvítá základ = potřeba báze. Hranice starého čirého bývá na černé vidět. Vzhledem k velkým plochám bez čirého a odlupujícím se okrajům spíš bude potřeba báze. Prasklina na zadní hraně vyžaduje opravu jako kapota. Test neudělán.
 
 ## Zadní víko (kufr)
