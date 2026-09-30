@@ -1,0 +1,42 @@
+﻿# Sezení 4 - dva plniče, Würth 1 l, tmel, lem kapoty, silikon
+
+DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné.
+
+## Co jsem řešil (otázky a odpovědi)
+1. Jonda viděl video o lakování černé metalízy a "asi bude potřebovat na kapotu dva plniče", pod černou jde všechno vidět. Mám dělat jen s jedním, nebo dokoupit druhý od jiné značky? Nebo koupit dva od jiné značky a první vrátit? Vybroušil na plech některá místa i u čelního skla a uprostřed kapoty. Odpověď: obava je opodstatněná (halo vzniká z rozdílné savosti plniče a starého laku, ne z barvy). Plnič přes celou kapotu je správně. Druhou dózu koupit (kapota 1-1,2 m2, 500 ml na 2-3 vrstvy je na hraně). Novol nevracet. Míchat značky u 1K akrylového plniče není problém, pokud jsou oba 1K akrylové a středně šedé. Asistent nenašel přesnou vydatnost Novolu na m2 (jen popis produktu), počítal z obecných hodnot 500ml aerosolů.
+2. Novol Acrylic Primer je podle popisu výrobce určený na tmely a staré laky a má nižší přilnavost ke kovu, není vhodný jako základ na holý kov. Tudíž pořadí: Würth bodově na holý plech, teprve pak plnič.
+3. Jak dlouho Würth schne? Odpověď (web): sprej lze přelakovat po 2 h (2-3 tenké vrstvy z 25-30 cm), tekutý Odrezovač 1 l musí být v okně 3-48 h po aplikaci přetřen ochranným prostředkem na kov po 3hodinové reakční době. Pouze jednosložkové produkty na přetírání (tvůj Novol 1K je OK). Předchozí zmínka o 6-12 h pauze patřila Brunoxu.
+4. Jonda poslal odkaz na autochladek.cz: Würth antikorozní nátěr / inhibitor 1 l. "Mám tento, urychlím to horkovzduškou třeba po hodině a půl?" Odpověď: NE. 3 h je reakční doba, ne doba schnutí. Produkt je disperzní (voda je nosič), horkovzduchem se reakce zastaví. Nepoužívat na horkých plochách nad 40 °C. Nanést jednu tenkou rovnoměrnou vrstvu štětcem nebo válečkem, zabránit stékání. Neoplachovat vodou. Lze přetírat všemi běžnými krycími nátěry. TENTO PRODUKT tmelení výslovně umožňuje (oprava dřívějších tvrzení asistenta).
+4b. Zrnitost před plničem: Jonda přeposlal rady jiných AI. GPT řekl, ať před plničem končí P320, Grok řekl P400, YouTube taky 400. Kde asistent vzal P240? Odpověď: P240 sedí pro tlustý 2K high build plnič, ne pro tenký 1K akrylový sprej (Novol), který nanese zlomek a rýhu po P240 neschová. Technický list Novolu s předepsanou zrnitostí asistent nenašel, jen popisy produktu. Pracovní hodnota: P320, klidně P400 (rozdíl v praxi bezvýznamný). Jonda měl pravdu.
+5. Poslal fotku etikety (Wurth ANTIKOROZNÍ NÁTĚR/INHIBITOR). "Kolik vrstev mám dát, mám to vysmirglované 400 a žádné tečky rzi nejdou vidět, důlky nejdou cítit po přejetí." Odpověď: jednu (etiketa říká: naneste tenkou rovnoměrnou vrstvu, žádný počet). Aplikace: štětec, jen holý plech, přesah 2-3 mm, odmastit těsně předtím, zakrýt plochy, které neošetřuješ, 3 h reakční doba, plnič v okně 3-48 h, po Würthu nebrousit a neoplachovat vodou. Žádné důlky = tmel nebude potřeba, plnič zarovná sám.
+6. Fotky po Würthu (5 kusů: kapota shora, lem/okraj kapoty, drážka po stranách). Jonda: mám dát jemný tmel? Nevyleze to na laku, když tam dám jen plnič? Po bocích kapoty je drážka, kde byl nějaký plast/guma, a u toho to rezne, mám to vytmelit nebo jen zatřít Würthem (nebude to vidět z venku)? Odpověď: 
+   - Na fotkách Würth funguje (krémový prstenec = film na čistém plechu, fialovočerný střed = zreagovaná rez).
+   - Tmel na Würth smí (tento produkt to povoluje), ale jen tam, kde nehet zadrhne. Rozhodovací pravidlo: nezadrhne = jen plnič, zadrhne = tenká stěrka. Důlky dorovnáš až po vodicí vrstvě a broušení plniče, tmel nad plničem je bezpečnější než nad Würthem.
+   - Lem/drážka po stranách kapoty: jen Würth, tmel ne (lem pracuje, je to vodní past, polyester je porézní). Vyškrábat popraskaný starý tmel, kartáčem volnou rez, odmastit, Würth do spáry, po vytvrzení pružný karosářský spárovací tmel (butyl / MS polymer / PU) nebo tekutý vosk do dutin. Rez v lemu je vážnější než tečky nahoře.
+7. Dva plniče od různých značek, trochu jiný odstín šedé. Jonda: mám dát jednu vrstvu jeden a druhou vrstvu Novol, aby to nebylo flekaté, nebo půl na půl? Odpověď: neprokládat po plochách, vrstvit přes celou kapotu. Navrchu má být všude jedna značka (jednotná savost poslední vrstvy). Plnič po vybroušení nemá být vidět skrz, od toho jsou dvě vrstvy báze.
+8. "Nebudu kupovat další tmel, co silikon?" Odpověď: NE. Silikon migruje a dělá v laku kráterky, na silikon nejde nic nalakovat. Na lem nedávat nic, jen Würth. Po laku tekutý vosk do dutin (cca 150 Kč), ne teď.
+9. "Mám ready, můžu dát plnič? Chtělo by to zabrousit některé části, kde to udělalo bublinky malé." Odpověď: bublinky nebrousit (Würth se brousit nesmí). Zkusit nehtem: nezadrhne = nechat, zrnka = setřít suchým hadrem, tvrdé puchýřky = poslat foto zblízka. Před stříkáním: reakční doba 3 h, vysát, neodmašťovat Novolem 780 (asistent tvrdil, že na vytvrzený konvertor rozpouštědlový odmašťovač nepatří, viz 08-otevrene), topení pryč, dózy ve vlažné vodě do 40 °C, respirátor.
+10. Fotky dvou plničů: Novol Acrylic Primer šedý 500 ml (170 Kč) a Chamäleon Thick Layer Filler High Build Primer 400 ml šedý (370 Kč). "Jaký dát dolů?" Odpověď: Chamäleon dolů, ale jen na opravená místa (tečky a přední pás), protože 400 ml high build nevystačí na celou kapotu. Novol přes celou kapotu nakonec (poslední vrstva = jednotná savost).
+11. Fotky etikety Chamäleonu: Jonda upozornil, že to NENÍ 2K a po 2 h se může přelakovat a brousit. Odpověď: etiketa říká 3 tenké vrstvy, 5 min mezi nimi, vzdálenost 25-30 cm, zpracování 15-25 °C, proschnutí 1 h při 20 °C, brousit a přelakovat po 2 h, brousit nasucho P400-500, pod vodou P800-1000, rozpouštědlový 1K (aceton, butylacetát, uhlovodíky). Původní "nechat přes noc" bylo zbytečně opatrné.
+12. "Chameleon vydrží jednu lehkou a druhou tlustší, pak dojde, ale co dělat, kdyby mi došel v půlce druhé?" Odpověď: stříkat podle priority (přední hrana a pás, tečky, kde nehet zadrhne, mělké tečky nakonec), pokud dojde, pokračovat Novolem, vodicí vrstva ukáže, kde plniče chybí. Nešetřit stříkáním z větší dálky (suchý nástřik). Protřepat mezi vrstvami. Trysku vyčistit až nakonec.
+13. Jonda: "Udělej mi to graficky vyznačeně na nakreslené kapotě, kde mám co stříkat." Vznikl diagram zón (Chamäleon = přední hrana + tečky, Novol = celá plocha navrch). Otázka: první vrstva jen tečky na vybroušené body, nevyleze to pak? Odpověď: neprosvitne, pokud okraje "zmizí do ztracena" (mačkat a pouštět spoušť mimo tečku, po vybroušení nehet přes okraj).
+14. Jonda přeposlal radu od Groku: nejdřív Novol (lepší přilnavost, levnější), potom Chamäleon, 24 hodin čekat není nutné. Odpověď: 24 h čekání opravdu není nutné (etiketa: 2 h). Premisa o lepší přilnavosti Novolu je obrácená (Novol má nižší přilnavost ke kovu, přilnavost dělá Würth). Plán "Novol všude ve dvou vrstvách, pak Chamäleon, pak Novol znovu" by spotřeboval materiál, který nemá (3 průchody celou kapotou z jedné 500ml dózy). Kus pravdy: jedna vrstva Novolu přes všechno pro sjednocení = přesně princip, o který jde.
+15. "Takže mám nastříkat nejdřív body a pás? Nebo první vrstvu Chamäleonu klasickou tenkou a pak ty body? Nebo jen body a pás a brousit? Jak teda? Zamysli se." Odpověď (finální): jen body a pás, žádná celoplošná vrstva Chamäleonu. Nastříkat oblasti ne jednotlivé tečky (kužel 15-20 cm): přední pás jako souvislý tah, přední polovina s tečkami každých 5 cm jako souvislá plocha, jednotlivé tečky vzadu a u skla zvlášť. Tři vrstvy, každá o cca 2 cm širší (rozprostřít schody). Pak 2 h, vodicí vrstva, P400 do roviny, nehet přes okraj, vysát, odmastit, Novol přes celou kapotu 2 vrstvy, jen zmatovat P400, báze.
+
+## Rozhodnutí
+- Würth: jedna tenká vrstva štětečkem jen na holý plech (v lemu štědře do spáry).
+- Plniče: Chamäleon jen na opravená místa (3 vrstvy, každá o 2 cm širší), Novol přes celou kapotu 2 vrstvy navrch.
+- Lem kapoty: jen Würth, později pružný spárovací tmel nebo vosk. Žádný silikon.
+- Další tmel se nekupuje.
+- 24 h schnutí plniče neplatí, řídit se etiketou (2 h).
+
+## Korekce
+- 24 h čekání u plniče: zbytečně dlouhé.
+- Tvrzení "6-12 h pauza u Würthu" patřilo Brunoxu.
+- Celou dobu se tvrdilo, že na konvertor nesmí polyesterový tmel. U Würth inhibitoru to neplatí, u Novol/Chamäleon 1K plniče to nebyl problém.
+
+## Nákupy
+- Würth antikorozní nátěr/inhibitor 1 l (odkaz autochladek.cz, kdy a kde přesně koupeno neuvedeno).
+- Chamäleon Thick Layer Filler High Build Primer grey 400 ml, 370 Kč.
+- Novol Acrylic Primer šedý 500 ml, 170 Kč (druhý nebo první kus, viz 08-otevrene).
+- Nekoupeno: silikon, spárovací tmel, černý plnič.
