@@ -82,9 +82,91 @@ Značky zdroje: [ETIKETA] přečteno z etikety, kterou Jonda vyfotil. [TL] techn
 - Přítlak cca váha předloktí (5 kg): u DA přítlak dělá rotaci, ne agresivitu. Fixou čárka přes okraj padu, musí se otáčet.
 - Tempo 2-3 cm/s, úseky 30x30 cm, 6-8 křížových přejezdů. Pad čistit kartáčem po každém čtverci. Nejezdit přes hrany a prolisy. Kontrola IPA nebo odmašťovačem mezi kroky.
 - Leštící oleje po dni práce dělají falešně "hotové" plochy. Před hodnocením odmastit.
+- [PRAXE] Abrazivo je v PASTĚ, ne v kotouči. Kotouč je jen pružná podložka, nemá zrnitost. Výsledek řídí pasta, kotouč s ním pohne asi o jeden stupeň.
+- [PRAXE] Barvy kotoučů nejsou napříč značkami standardizované, žádná norma neexistuje. U Liquid Elements: červená tvrdá, žlutá střední, zelená jemná, fialová ultrafiniš. U jiné značky může být žlutá nejtvrdší. Barvu vždy dohledat u konkrétního výrobce.
+- [WEB] Kochovo pořadí tvrdosti kotoučů: Heavy Cut červený > One Cut oranžový > Fine Cut žlutý > Micro Cut fialový. Pozor: "Fine Cut" NENÍ měkký kotouč, jména Kochových kotoučů odkazují na pastu, se kterou se párují.
+- [PRAXE] Volnoběžná DA: rotaci pohání jen tření kotouče o lak. Silnější tlak řez nezvýší, zabije ho. Kontrola lihovou fixou přes bok kotouče, čára se musí rozmazat do kruhu.
+- [PRAXE] Na řezný krok brát STŘEDNÍ kotouč, ne tvrdý. Tvrdý kotouč na 720W volnoběžné DA zastaví rotaci pod přítlakem a kotouč, který se netočí, neřeže vůbec. Řez obstará pasta.
+- [PRAXE] Kotouč 150 mm na 125mm talíř přesahuje 12,5 mm z každé strany a na volnoběžné DA zastaví rotaci. Na Tuson patří 125-135 mm.
+- [PRAXE] Ubývající (diminishing) abrazivo: zrna se při práci lámou, pasta začne řezat a skončí jako finiš. Tak fungují Menzerny. Musí se vypracovat, 4-6 přejezdů, ne dva.
+- [PRAXE] SMAT (neubývající) abrazivo: zrna zůstávají stejná po celou dobu, odpouští chyby v technice.
+- [PRAXE] "Vícekroková pasta" neexistuje. To, co "ubývá a přechází z řezu do lesku", je ubývající abrazivo, tedy vlastnost pasty, ne kategorie. Kroky se počítají podle toho, kolikrát přejedeš díl JINOU kombinací pasty a kotouče.
+- [PRAXE] Nehtový test na hloubku škrábance: nehet kolmo přes škrábanec. Zachytí se = jde skrz čirý lak, nevyleští se.
+- [PRAXE] Dva kotouče stačí (jeden řezný, jeden finišovací). Standard jsou 4, protože se zanesou. Žlutý kotouč z balení Tusonu poslouží jako záloha na řezný krok, na finišový ne.
+- [PRAXE] Neoznačený kotouč (Action, z balení leštičky) se pozná palcovým testem: palcem zmáčknout pěnu. Tvrdá se prohne málo a hned se vrátí, měkká se dá zmáčknout hluboko. Pět kotoučů z jedné levné sady bývají reálně 1-2 hustoty, ne pět.
+
+## Vrstvy laku (90. léta)
+- [PRAXE] Bezbarvý lak 40-50 µm, metalízová báze 15-20 µm, plnič 30-40 µm. Proto se na starém laku leští opatrně a brousí jen lokálně.
+
+## Lešticí pasty - Menzerna (Cut / Gloss podle oficiálních TL)
+Menzerna je jediná značka, která čísla Cut a Gloss (1-10) zveřejňuje. Čísla v názvech pasty NEJSOU zrnitost, jsou to kódy výrobku.
+
+| Pasta | Cut | Gloss | Odstraní stopy až po |
+|---|---|---|---|
+| Super Heavy Cut 300 | 10 | 6 | - |
+| Heavy Cut 400 | 8 | 8 | P1500 vlna / P2000 pěna |
+| Heavy Cut 1000 | 9 | 3 | P1500-2000 |
+| Heavy Cut 1100 | 8 | 5 | - |
+| Medium Cut 2200 | 6 | 7 | - |
+| Medium Cut 2400 | 5 | 8 | - |
+| Medium Cut 2500 | 5 | 7 | P3000 |
+| One-Step 3in1 | 5 | 9 | P3000 |
+| Final Finish 3000 | 3 | 9 | - |
+| Super Finish 3500 | 3 | 10 | - |
+| Super Finish Plus 3800 | 2 | 10 | - |
+
+- PAST: Heavy Cut 1000 má Cut 9 a Gloss 3. Řeže víc než 400, ale nechá zákal. Na černé metalíze diskvalifikace.
+
+## Lešticí pasty - Koch Chemie
+| Pasta | Odstraní stopy od | Silikon | Poznámka |
+|---|---|---|---|
+| B9.01 Heavy Quick Cut | P1200 | ne | Nejvíc řezu z Jondových past. Koch doporučuje doleštit M3.02. |
+| P6.02 One Cut & Finish | P2000 | ANO | Jednokrok s karnaubským voskem. |
+| F6.01 Fine Cut | P2500 | ne | Cut 6 / Gloss 7 |
+| M3.02 Micro Cut | - | ne | Finišovací |
+
+- [WEB] P6.02 One Cut & Finish obsahuje karnaubský vosk a nevolatilní SILIKONY. NEPOUŽÍVAT, dokud není auto nalakované: silikon dělá v čerstvém laku kráterky (fisheye). Navíc Koch u ní uvádí požadavek excentriky s min. 15mm zdvihem, který Tuson nemá ověřený.
+- [WEB] P6.01 je starší označení, Koch ho na webu už nevede. Aktuální je P6.02. Prodejci si v tom dělají zmatek.
+
+## Lešticí značky - hodnocení
+| Značka | Verdikt |
+|---|---|
+| Menzerna | Referenční pasty, jediná zveřejňuje Cut/Gloss. Nejlevnější z profi řady. Na Alze není (položka "Prodej skončil"). |
+| Koch Chemie | Výborné pasty i kotouče, kompletní řada ve 126 mm za 290-330 Kč. |
+| Rupes | Prémium. Řada D-A je purpose-built pro volnoběžné DA (TL: "BigFoot Dual-Action random orbital"). D-A Coarse na Alze 358 Kč je dobrá cena. |
+| Liquid Elements | Německá střední třída, 169-209 Kč. Konzistentní pěna, zkosená hrana, suchý zip drží. Vydrží míň praní než Koch. |
+| ZviZZer, Scholl | Prémium, na jedno auto se nevytěží. |
+| Auto Finesse | Britská, kvalitní, ale na Alze kotouče po dvou za 698 Kč. |
+| Extol | Česká hobby značka nářadí, řídká pěna z kutilské řady. Vyhnout se. |
+| Bezejmenné a karosářské molitany | Vyhnout se: lepidlo suchého zipu povolí při 60-70 °C. |
+
+## Leštička: zdvih a upgrade
+- Zdvih Tusonu 130050 je NEOVĚŘITELNÝ. V originálním návodu vůbec není uvedený. Prodejci píšou 21 mm, což je zkopírovaný marketing dovozce a technicky nepravděpodobné (21 mm se vždy páruje s 150mm talířem, Tuson má 125 mm). Nedá se tedy zjistit, z čeho by se upgradovalo.
+- Otáčky Tusonu 2100-5000 ot./min, závit M8x16 (nestandardní).
+- Pod 3 000 Kč jsou jen dva stroje se zdvihem 15 mm a víc, oba Starline, oba bez kotoučů v setu: GV 5115B (15 mm, talíř 125 mm, 2 756 Kč) a GV 5121B (21 mm, ale talíř 150 mm, takže 126mm Koch kotouče na něj nejdou a menší unašeč se v ČR neprodává). 5115B je no-name za no-name, bez recenzí a náhradních dílů v ČR.
+- Skutečný upgrade začíná na cca 4 900 Kč: Liquid Elements T4200 (15 mm, 125 mm, 4 894 Kč, LED indikátor přítlaku), ShineMate EX610-5/15 (15 mm, 125 mm, 5 090 Kč, 5 let záruky).
+- Protiargument k silnějšímu stroji: na 30 let starém laku s tenkou vrstvou čirého je agresivnější long-throw stroj v rukou začátečníka spíš riziko prodření hran.
+- Lepší investice než stroj je inspekční světlo. Na černé barvě se nedá opravit, co není vidět. Scangrip Torch Lite 400 A 1 199 Kč, Matchpen R 1 719 Kč. Levněji: jasná LED svítilna za pár stovek udělá 80 % práce.
 
 ## Claybar
 - Voda + jen pár kapek jaru (ne silný poměr). Nenechat lubrikant zaschnout. Nepoužívat papírové ubrousky. Po claybaru vlhké mikrovlákno, tahy jedním směrem. Spadlý clay vyhodit.
+- [WEB, rešerše 11. 9.] Žádný pořádný srovnávací test hmota vs. houba vs. rukavice neexistuje. Všechno je konsenzus praktiků, ne data.
+- [WEB] Všechny formáty odstraní stejnou kontaminaci, pokud sedí hrubost a je dost lubrikantu.
+- [WEB] Marring (zmatnění povrchu) je u všech formátů nevyhnutelný. Mike Phillips (Autogeek): "kdykoli se chystám clayovat auto, už dopředu počítám aspoň s jedním strojovým leštěním."
+- [WEB] Houba vydrží cca 50 aut, hmota jednotky aut. Spadlá hmota jde do koše (nabrala štěrk), houbu jen opláchneš.
+- [WEB] Hmota vyhrává na složitých tvarech, hranách, okolí znaků a na bodovou kontaminaci.
+- [WEB] Iron remover PŘED clayem snižuje abrazivní kontakt: rozpustí kovové částice, takže je clay nemusí trhat mechanicky.
+- [PRAXE] Nejdůležitější pro obě varianty je zaplavená plocha, ne jen stříknout. Nedostatek lubrikantu je příčina většiny škrábanců po clayi.
+
+## Falešné "2K" spreje a jak poznat pravý 2K
+- [TL] HB Body C496 sprej NENÍ pravé 2K. Technický list výrobce č. 802 pro 400ml aerosol uvádí doslova "No hardener required". Tím padají všechny levné "2K" čiré spreje za 190-291 Kč. Popisy v e-shopech jsou opsané z litrové plechovky, která se tuží 2:1 tužidlem 720.
+- [WEB] HB Body P360 plnič NENÍ 2K. Prodejce k němu napsal: "Nemá žádný aktivační kolík - nic se nemíchá."
+- [PRAXE] Pravý 2K sprej má tužidlo v kapsli ve dně dózy a aktivuje se knoflíkem z víčka nasazeným na trn ve dně. Po aktivaci má omezenou zpracovatelnost. Sprej bez aktivačního kolíku není 2K, i když to má v názvu.
+- [PRAXE] Metalízová báze je 1K Z PRINCIPU. Odolnost jí dává až bezbarvý lak nad ní. "2K metalízu" nehledat, lakýrník má pravdu.
+
+## Wash / etch primer a polyesterový tmel
+- [PRAXE] Na wash primer ani etch primer NESMÍ polyesterový tmel, neuschne na něm. Etch primer se navíc nanáší jen cca 10 µm, takže to není antikorozní bariéra, jen adhezní můstek.
+- [PRAXE] Kde se bude tmelit, patří na holý plech 2K epoxidový základ, ne etch primer. Konkrétní varianty a ceny (HB Body P961 Etch 195 Kč vs. SprayMax 2K Epoxy 403,72 Kč) jsou v dny/2026-09-09-az-10_datum-neznamy/sezeni-1_kvalita-misto-nejlevnejsiho.md. Jonda nakonec nekoupil ani jeden, viz 00-prehled/05-rozhodnuti.md.
 
 ## 2K čirý Jondy: 2K Pro lesk 400 ml (Peter Kwasny, "2K PRO Klarlack glänzend")
 Zdroje: TL https://media.hornbach.at/hb/technicaldatasheet/as.27213097.pdf , BL https://media.hornbach.at/hb/msds/as.178912030.pdf , e-shop https://www.lakyrmat.cz/sprej-bezbarvy-lak-lesk-s-tuzidlem-2k-pro-400-ml
@@ -134,6 +216,8 @@ Zdroje: TL https://media.hornbach.at/hb/technicaldatasheet/as.27213097.pdf , BL 
 - Jiskry z drátěného kotouče se zapékají do laku, před broušením zakrýt auto plachtou.
 - Odželezovač (thioglykolát) reaguje na železo, ne na rez. Na holý plech nepatří (falešný poplach a kyselé zbytky, flash rust).
 - Lem kapoty: pracuje, je to past na vodu. Žádný polyesterový tmel, žádný silikon. Würth do spáry, po vytvrzení pružný tmel nebo vosk do dutin.
+- [WEB, ceny k 8.-11. 9. 2026] Brunox Epoxy: 269 Kč/100 ml, 404 Kč/250 ml, 505 Kč/400 ml, ve velkém balení se tedy nevyplácí. Obyčejný fosforečný odrezovač 69-87 Kč/500 g. Fertan je v ČR cenově mimo, 769-1 100 Kč/250 ml. Würth antikorozní nátěr/inhibitor: 750 Kč/l s DPH (620 Kč bez DPH), rozlévaných 100 ml 156 Kč, tedy 1 560 Kč/l.
+- Rozdíl Würth inhibitor vs. Brunox Epoxy: oba stabilizují tenkou pevně držící rez a ani jeden rez neodstraní. Würth ale nutně potřebuje krycí nátěr v okně 3-48 h a sám za sebe nestojí, Brunox po vytvrzení nechává epoxidový film, který stojí sám a snese tmel bez okna.
 
 ## Bezpečnost
 - 2K čirý obsahuje isokyanáty. Protiprachový FFP2/FFP3 nechrání proti parám. Polomaska s kombinovaným filtrem A+P (hnědý + bílý proužek), podle BL minimálně A1P2, A2P3 je v pořádku. Filtry, které leží dlouho otevřené, vyměnit. Když přes masku cítíš ředidlo, filtry jsou vyčerpané.
