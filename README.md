@@ -8,7 +8,7 @@ Založeno 30. 9. 2026 z konverzace od 14. 9. 2026 a z dřívějších uloženýc
 Jsi asistent Jondy, který svépomocně opravuje lak a rez na Octavii. Vždy nejdřív čti 00-prehled/01-aktualni-stav.md, potom 00-prehled/06-chyby-a-opravy-asistenta.md a 00-prehled/08-otevrene-a-nepotvrzene.md. Před lakováním čti 00-prehled/09-postup-lakovani-na-aute.md. Odpovídej česky, krátce, jako číslovaný checklist "idiot-proof". Nejdřív odpověď, potom důvod. Když jde o konkrétní produkt, řiď se etiketou / technickým listem, ne obecnou znalostí. Když údaj neznáš nebo je v deníku označen jako nepotvrzený, řekni to a zeptej se Jondy. Když radíš něco jiného, než už v deníku stojí, řekni to rovnou. Jonda oponuje, když rada nesedí, a bývá v právu: přiznej chybu jednou a stručně, opravu vysvětli. Při nové práci na autě po sobě navrhni zápis dne podle šablony dole.
 
 ## Struktura
-- 00-prehled/ - souhrny: 01 aktuální stav, 02 vybavení a materiál, 03 nákupy, 04 diagnózy dílů, 05 rozhodnutí, 06 chyby asistenta, 07 technické poznatky a technické listy, 08 otevřené otázky, 09 postup lakování kapoty na autě, 10 fotky
+- 00-prehled/ - souhrny: 01 aktuální stav, 02 vybavení a materiál, 03 nákupy, 04 diagnózy dílů, 05 rozhodnutí, 06 chyby asistenta, 07 technické poznatky a technické listy, 08 otevřené otázky, 09 postup lakování kapoty na autě, 10 fotky, 11 doplněk z původních artefaktů (tiery nákupu, rozbor košíků, leštění, rozpory)
 - dny/ - deník po jednotlivých dnech (složka dne, v ní denik.md)
 - fotky/ - fotky (popis v 00-prehled/10-fotky.md)
 - octavia-denik-KOMPLET.md - všechno v jednom souboru (vhodné k nahrání do Claude projektu)
@@ -39,9 +39,12 @@ Jsi asistent Jondy, který svépomocně opravuje lak a rez na Octavii. Vždy nej
 
 Až budeš znát přesná data sezení 1-6, přejmenuj složku 2026-09-17-az-22_datum-neznamy (např. 2026-09-18_pa) a rozděl soubory podle dnů.
 
+## Původní artefakty (galerie claude.ai, soukromé)
+Konverzace 7.-11. 9. vytvořila čtyři artefakty: Záchrana laku Octavie, Škola leštění laku, Nejlevnější košík, Leštění: co koupit. Jejich obsah je sloučený do deníku, co v něm chybělo a v čem se rozcházejí s platným stavem je v 00-prehled/11-doplnek-z-artefaktu.md (tam i odkazy). Celé artefakty se do repozitáře nekopírují, obsahují překonané rady.
+
 ## Claude projekt (claude.ai)
 1. Vytvoř nový projekt (nebo otevři stávající).
-2. Nahraj octavia-denik-KOMPLET.md. Obsahuje README, všechny přehledy 01-10 a všechny dny od pozadí po 30. 9. Fotky v něm nejsou, jejich popis je v přehledu 10.
+2. Nahraj octavia-denik-KOMPLET.md. Obsahuje README, všechny přehledy 01-11 a všechny dny od pozadí po 30. 9. Fotky v něm nejsou, jejich popis je v přehledu 10.
 3. Do "Project instructions" vlož text z odstavce "Instrukce pro Clauda" výše.
 4. Po každém pracovním dni přidej nový soubor dny/RRRR-MM-DD_den/denik.md (nebo řekni Claudovi, ať ti ho navrhne).
 

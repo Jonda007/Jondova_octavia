@@ -32,7 +32,7 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 ## Střecha
 - [POTVRZENO] Čirý lak se odlupuje v plátech. Skvrnité bílé křídové ostrůvky s tvrdými hranicemi. Leštění nepomůže, chce lak.
 - Čirý je odloupnutý i na sloupku u zrcátka, na zadní hraně střechy / C sloupku matný pás s prasklinou v laku.
-- Plocha cca 1,2 m2.
+- Plocha cca 1,2 m2. Rozpor: artefakt Záchrana laku (7. 9.) uvádí střechu i kapotu po cca 1,7 m2, viz 11. Neměřeno.
 - [POTVRZENO 7. 9.] Tmavé fleky na střeše mohou být vosk z automyčky. Šedá křídová plocha ne, ta je diagnóza.
 - [TEORIE 28. 9.] Oprava jen bezbarvým (video Toyota Previa) by šla jen tam, kde je báze pod chybějícím čirým stejnoměrná. Test: kousek bez čirého P800 pod vodou a nechat mokré. Stejnoměrná černá metalíza = jen čirý může fungovat. Šedivé, flekaté, prosvítá základ = potřeba báze. Hranice starého čirého bývá na černé vidět. Vzhledem k velkým plochám bez čirého a odlupujícím se okrajům spíš bude potřeba báze. Prasklina na zadní hraně vyžaduje opravu jako kapota. Test neudělán.
 

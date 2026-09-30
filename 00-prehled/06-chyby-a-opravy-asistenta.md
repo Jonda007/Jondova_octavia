@@ -45,6 +45,7 @@ Zdroj: samostatná konverzace ze 7.-11. 9. 2026 (příprava a nákup), zapsaná 
 32. Asistent přehlédl, že 1K akrylový plnič nedrží na holém plechu a netvoří antikorozní bariéru. Přišel na to Jonda ("plnic pry nedrzi moc na kovu"). Otevřelo to otázku základu na holý plech (SprayMax 2K Epoxy 403,72 Kč vs. HB Body P961 Etch 195 Kč). POZOR na souvislost s pozdějším rozhodnutím: 05 říká "[PLATÍ 28. 9.] holý plech nenechávat přes noc bez ochrany, aspoň jedna lehká vrstva plniče". To je krátkodobá ochrana proti flash rust, ne antikorozní skladba. Nedělat z toho, že 1K plnič na plechu drží.
 33. Asistent doporučil odrezovač Kittfort, což je drogistická značka. Jonda: "to si delas prdel ne? co to ma byt, ja nebudu delat plot ale auto". Měl pravdu.
 34. Asistent nejdřív označil iron remover před clayem za "krok navíc". Rešerše ukázala opak: odželezovač rozpustí kovové částice, takže je clay nemusí trhat mechanicky, a snižuje tím abrazivní kontakt a marring. Opraveno.
+35. Čtyři artefakty z 7.-10. 9. si navzájem odporují a část jejich rad je překonaná (plocha dílů, vydatnost a zpracovatelnost čirého, Heavy Cut pasty nekupovat vs. dvoukrok s Heavy Cut, BOLL houbička 150 mm "sedí" na 125mm talíř, plán Fáze A s laminátem a Brunoxem). Rozbor a co platí je v 00-prehled/11-doplnek-z-artefaktu.md.
 
 ## Kde měl pravdu asistent (7.-11. 9.)
 Jonda oponuje často a většinou správně, ale ne vždy. V této konverzaci se nepotvrdily tři jeho námitky:

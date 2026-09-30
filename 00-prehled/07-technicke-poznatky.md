@@ -77,6 +77,7 @@ Značky zdroje: [ETIKETA] přečteno z etikety, kterou Jonda vyfotil. [TL] techn
 - Dřívější rada ze sezení 3 (plech bez tmelu, ještě bez Würthu): Würth ještě ten den, nebo suchý hadr, větráček a ráno P240 nasucho.
 
 ## Leštění (DA leštička Tuson, Koch pasty)
+Testy kotoučů (profouknutí, tah, srovnání dvou polí), počet fází, postup leštění svislých dílů a leštění nového laku po lakování jsou v 00-prehled/11-doplnek-z-artefaktu.md.
 - Test 20x20 cm ohraničený páskou, vyfotit před tím.
 - Rozetření pasty stupeň 1-2 při vypnutém stroji. Řezání B9.01 na žlutý Fine Cut stupeň 4-5. Finiš M3.02 na fialový Micro Cut stupeň 3-4.
 - Přítlak cca váha předloktí (5 kg): u DA přítlak dělá rotaci, ne agresivitu. Fixou čárka přes okraj padu, musí se otáčet.
