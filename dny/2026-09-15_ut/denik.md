@@ -1,4 +1,4 @@
-﻿# 2026-09-15 (úterý)
+# 2026-09-15 (úterý)
 
 Časy jsou místní (UTC+2). Datum je JISTÉ. Jonda byl v garáži plánovaně od 9:00 do 21:00.
 

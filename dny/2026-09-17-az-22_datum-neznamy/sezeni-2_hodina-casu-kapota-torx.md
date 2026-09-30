@@ -1,10 +1,10 @@
-﻿# Sezení 2 - hodina volného času, kapota, blatníky, torx
+# Sezení 2 - hodina volného času, kapota, blatníky, torx
 
 DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné.
 
 ## Co jsem řešil (otázky a odpovědi)
 1. "Budu mít teď hodinu čistého času, mám vybrousit a zatmelit rez?" Odpověď: ne brousit a netmelit. Důvody: čerstvě vyleštěná kapota (jiskry z drátěného kotouče se zapékají do laku), kapota je pořád na autě (u díry skrz musí jít laminát zespodu první), Brunox nebyl koupený. Doporučeno: test třemi utěrkami a mapování rzi.
-2. Jonda: "Co? Nebudu mapovat." Asistent: sundat kapotu. Jonda: kapotu odmontovávat nebude, nemá kozy a nemá ji kam dát, jen odmontuje masku s grilem. Asistent: OK, kapota zůstane na autě, důkladně zamaskovat předek plachtou (jiskry), lakovat naležato nebude možné, tedy tenčí vrstvy a pozor na stékance.
+2. Jonda: "Co? Nebudu mapovat." Asistent: sundat kapotu. Jonda: kapotu odmontovávat nebude, nemá kozy a nemá ji kam dát, jen odmontuje masku s grilem. Asistent: OK, kapota zůstane na autě, důkladně zamaskovat předek plachtou (jiskry), lakovat naležato nebude možné, tedy tenčí vrstvy a pozor na stékance. [OPRAVA 30. 9.: nepřesné. Zavřená kapota na autě je vodorovná, tedy se lakuje právě naležato a stékanců je míň než u svislé kapoty, pozor jen na přední hranu. Viz 27. 9. a 00-prehled/06, bod 20.]
 3. Fotky kapoty (6 kusů) a poznámka: "Z druhé strany nic není za rez." Ukázalo se, že rez nejde zespodu ven, ale shora dovnitř: odražené kamínky prorazí lak, pod ním začne plech rezavět a rez nadzvedne lak do puchýře. Důsledky: žádný průraz, prosvěcování zespodu škrtnuto, laminovací sada Novol 710 není na kapotu potřeba, Novol Fiber taky ne (na svařenec a hluboké díry, ne na důlek po kamínku). Zbývá hladký tmel v tenké stěrce, u mělkých důlků možná ani ten (vyplní plnič).
 4. Jonda: "Tohle teďka asi nemá smysl nelakovat celé, ne? To bude mnohem jednodušší udělat celou kapotu." Asistent souhlasil: metalíza se nedá rozstříkat do ztracena uprostřed rovné plochy (pět šest ohnisek po celé ploše = pět šest hal), celou kapotou zmizí i zákal a test utěrkami už nemusí dělat, práce navíc je jen broušení plochy. Postup: rez otevřít, ošetřit, ohniska tmelit tenkou stěrkou, celou kapotu přebrousit P400, plnič jen na opravená místa, báze na celou kapotu 2 vrstvy, čirý 2 vrstvy.
 5. Blatníky. Asistent nabízel zvážit výměnu použitých z Bazoše. Jonda: "Nechci blatníky měnit, já ti říkám, proč bych kupoval ty laminát." Asistent se omluvil: laminát a Novol Fiber patří na prorezlé blatníky, ne na kapotu. Blatníky jsou šroubované (Octavia I jde sundat bez řezání), lakují se celé edge to edge. Jonda upřesnil: blatníky bude dělat jen dole u prahu, jinak jsou v pohodě a stačí rozleštit.
@@ -20,6 +20,7 @@ DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné.
 - Asistent nejdřív navrhl prosvěcování a laminát u díry, ale rez byla povrchová od kamínků.
 - Asistent si spletl, ke kterému dílu se laminát vztahuje (viz bod 5).
 - Jonda odmítl mapovat rez a sundávat kapotu, důvody byly praktické (nemá kam).
+- Doplněno 30. 9.: "lakovat naležato nebude možné" (bod 2) je nepřesné, viz oprava tamtéž. Plán báze "2 vrstvy" (bod 4) je překonán postupem v 00-prehled/09 (1 lehká + 2 krycí + efektová vrstva).
 
 ## Nákupy
 - Torx hlavice T45 (případně T50), 1/2", doporučeno (nákup nepotvrzen).

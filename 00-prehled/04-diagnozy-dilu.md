@@ -1,4 +1,4 @@
-﻿# Diagnózy podle dílů
+# Diagnózy podle dílů
 
 Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORIE] = hypotéza, neověřeno.
 
@@ -7,6 +7,7 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 - Suché fotky nesou diagnózu, mokré ne (voda vyplní mikrodrsnost i na mrtvém laku, a na fotkách nebyla rovnoměrně smočená).
 - Kritérium "pad zčerná = báze" nestačí. Spolehlivější je druhý průchod: když se to zlepší, je do čeho řezat.
 - Test třemi bílými utěrkami (B9.01, 20 kroužků, 3 utěrky): postupné světlání = čirý lak zbývá, všechny stejně tmavé = báze.
+- Plnič po broušení, kontrola baterkou z boku (27. 9.): šedý mrak, přes který je vidět plnič = tenká vrstva, OK. Stříbrný lesk = plech, béžová = tmel, černá/rezavá = konvertor. Černé tečky v důlcích = zbytek vodicí vrstvy (dobrousit).
 
 ## Svislé díly (dveře, boky, blatníky)
 - [POTVRZENO] Čirý lak žije, ostrý odraz. Stačí leštit dvoukrokem (B9.01 na žlutý Fine Cut, M3.02 na fialový Micro Cut).
@@ -21,11 +22,16 @@ Značky: [POTVRZENO] = ověřeno testem, fotkou nebo Jondovým tvrzením. [TEORI
 - [POTVRZENO] Lem (okraj) kapoty a drážka po stranách, kde byl plast/guma: rez, popraskaný starý tmel. Vážnější než tečky nahoře (voda tam zůstává).
 - [POTVRZENO] Bubliny po Würthu na některých místech (viz sezení 4 a 6).
 - Původní verdikt 15. 9. "kapota se nebude lakovat, bude se leštit" byl překonán rozhodnutím lakovat celou kapotu (17.-22. 9.).
+- [POTVRZENO 27. 9.] Po 2 kolech plniče (2 plechovky) a broušení K800: tmavší mraky = tenký plnič přes tmavý podklad (starý lak), tmavé pruhy podél prolisů (hřbety prolisů se probrousí nejdřív), na hraně tmavý lem. Kontrola baterkou (Jonda): všude jen tenký plnič. Na omak nic. Pod černou metalízou prosvítání nevadí.
+- [POTVRZENO 28. 9.] Po dalším přebroušení a novém plniči: ďolíky (důlek od kamínku nebo ťuk), kráterek po kamínku s kroužkem, místy rýhy. Vytmeleno BodySoft 211, přes 15 fleků po celé kapotě (fotky/2026-09-28_05 až 09 a fotky/2026-09-29_10).
+- [POTVRZENO 28. 9.] Po broušení tmelu místy odhalený holý plech (hlavně flek u hrany u spáry). Přes noc lehká vrstva plniče.
+- [POTVRZENO 29. 9.] Béžový tmel prosvítá skrz tenkou ochrannou vrstvu plniče. Tmavé kroužky kolem fleků = starý lak, pod plničem nevadí.
 
 ## Střecha
 - [POTVRZENO] Čirý lak se odlupuje v plátech. Skvrnité bílé křídové ostrůvky s tvrdými hranicemi. Leštění nepomůže, chce lak.
 - Čirý je odloupnutý i na sloupku u zrcátka, na zadní hraně střechy / C sloupku matný pás s prasklinou v laku.
 - Plocha cca 1,2 m2.
+- [TEORIE 28. 9.] Oprava jen bezbarvým (video Toyota Previa) by šla jen tam, kde je báze pod chybějícím čirým stejnoměrná. Test: kousek bez čirého P800 pod vodou a nechat mokré. Stejnoměrná černá metalíza = jen čirý může fungovat. Šedivé, flekaté, prosvítá základ = potřeba báze. Hranice starého čirého bývá na černé vidět. Vzhledem k velkým plochám bez čirého a odlupujícím se okrajům spíš bude potřeba báze. Prasklina na zadní hraně vyžaduje opravu jako kapota. Test neudělán.
 
 ## Zadní víko (kufr)
 - [POTVRZENO] Delaminace: vyloupnutý flek čirého s roztřepeným okrajem, prasklina. Chce lak.

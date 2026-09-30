@@ -1,4 +1,4 @@
-﻿# Sezení 4 - dva plniče, Würth 1 l, tmel, lem kapoty, silikon
+# Sezení 4 - dva plniče, Würth 1 l, tmel, lem kapoty, silikon
 
 DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné.
 

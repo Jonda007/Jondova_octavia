@@ -1,4 +1,4 @@
-﻿# Sezení 5 - nástřik plniče (první, druhá, třetí vrstva)
+# Sezení 5 - nástřik plniče (první, druhá, třetí vrstva)
 
 DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné. Z uložených poznámek vyplývá, že plnič byl hotový do 22. 9. 2026.
 

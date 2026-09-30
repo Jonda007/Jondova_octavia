@@ -1,6 +1,6 @@
-﻿# Sezení 6 - broušení plniče, rouno K800, vodicí vrstva, založení deníku
+# Sezení 6 - broušení plniče, rouno K800, vodicí vrstva, založení deníku
 
-DATUM NENÍ ZNÁMÝ (odhad: 22. 9. a později, do 30. 9. 2026). Poslední sezení před založením tohoto deníku (30. 9. 2026).
+DATUM NENÍ ZNÁMÝ (odhad: 22.-26. 9. 2026, proběhlo před 27. 9., viz dny/2026-09-27_ne/denik.md). Poslední sezení před založením deníku (30. 9. 2026). Bod 3 níže je z 30. 9.
 
 ## Co jsem dělal
 - Plnič je "dávno uschlý". Nejvíc viditelné vady vyfotil (7 fotek): ruční hoblík s P400, excentrická bruska s hnědočerveným rounem (K800 / nonwoven disk), tmavá kapota po broušení, hrudky a stékance u přední hrany, tmavé tečky prachu v plniči.
@@ -30,4 +30,4 @@ DATUM NENÍ ZNÁMÝ (odhad: 22. 9. a později, do 30. 9. 2026). Poslední sezen�
 - Spectrum Metallic black spray 400 ml (má ho, cena neuvedena, sloužil jako "levnější sprej" pro vodicí vrstvu).
 
 ## Stav na konci
-Plnič na kapotě, broušení P400 + K800 rozpracováno / hotovo (nepotvrzeno). Další krok: kontrola šikmým světlem, případné podstříknutí prodřených míst, odmastit, báze, čirý.
+Plnič na kapotě, broušení P400 + K800 rozpracováno / hotovo (nepotvrzeno). Doplněno 30. 9.: 27. 9. už bylo broušení K800 hotové a proběhlo druhé kolo plniče, viz dny/2026-09-27_ne/denik.md. Další krok: kontrola šikmým světlem, případné podstříknutí prodřených míst, odmastit, báze, čirý.

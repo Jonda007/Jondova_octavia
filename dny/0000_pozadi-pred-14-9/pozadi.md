@@ -1,4 +1,4 @@
-﻿# Pozadí - co bylo před 14. 9. 2026
+# Pozadí - co bylo před 14. 9. 2026
 
 Zdroj: dřívější chaty a uložené poznámky o projektu (přenosový souhrn ze 11. 9. 2026). Přesná data jednotlivých událostí tady neznám, proto jsou v jednom souboru.
 

@@ -1,4 +1,4 @@
-﻿# 2026-09-16 (středa)
+# 2026-09-16 (středa)
 
 Časy jsou místní (UTC+2). Datum je JISTÉ. V plánu bylo okno 16:00-21:00.
 
@@ -25,6 +25,10 @@ Zásada: na bázi šetřit lze (tenké vrstvy jsou u metalízy i lepší), na č
 - Bez epoxidového základu (Jonda ho odmítl kupovat, má Würth). Würth konvertor jen tam, kde se nebude tmelit (spodek kapoty, prahy, zadní sloupek). Na vybroušený čistý plech rovnou polyesterový tmel (tehdejší tvrzení asistenta, později částečně opravené, viz 06-chyby-a-opravy-asistenta.md). Plnič nikdy na holý plech (je 1K). Cena za to: životnost opravy spíš 3-5 let než 8. Kritické je ošetření spodní strany kapoty.
 - Postup u díry skrz: vybrousit do zdravého plechu, odmastit, laminovací sada 710 zespodu (skelná rohož + pryskyřice), Novol Fiber shora, P80/P120/P240, plnič, báze, čirý. (Později se ukázalo, že kapota skrz prorezlá není.)
 - Kapotu a blatníky sundat z auta a lakovat na kozách naležato (později zrušeno: kozy nemá, kapota zůstala na autě, sundána jen maska).
+
+## Korekce (doplněno 30. 9.)
+- Vydatnost čirého 1-1,5 m2 na dózu je průměr z různých produktů. Jondův čirý je Kwasny 2K Pro a technický list uvádí jen 0,5-0,75 m2 na dózu při 2 vrstvách, takže výpočet dokupu čirého výše je příliš optimistický (viz 00-prehled/07). "Spotřebovat do 3 dnů po aktivaci" platí pro SprayMax, Kwasny má cca 24 h.
+- "Báze 3-4 dózy, čirý 3-4 dózy" je odhad na střechu + kapotu. Jestli se střecha bude dělat jen bezbarvým, zatím není rozhodnuto (viz 00-prehled/04, sekce Střecha).
 
 ## Stav na konci dne
 Před shrnutím konverzace nebyl hotový test třemi utěrkami ani prosvícení masky kapoty zespodu. Materiál zůstává: báze 2 dózy, čirý 2 dózy. Dokup jen pokud se lakuje střecha.

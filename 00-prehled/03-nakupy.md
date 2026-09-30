@@ -1,11 +1,12 @@
-﻿# Nákupy (chronologicky) a zamítnuté nákupy
+# Nákupy (chronologicky) a zamítnuté nákupy
 
 ## Před 14. 9. 2026 (přesná data neznám)
 - Leštička Tuson 130050, rozpočet cca 1 800 Kč včetně kotoučů a past.
 - Koch Chemie přes Alzu: pasta Heavy Quick Cut B9.01 250 ml, pasta Micro Cut M3.02 250 ml, žlutý Fine Cut a fialový Micro Cut kotouč 126 mm, Green Star 1 l.
-- lakyrmat.cz: 1 813 Kč (2K čirý sprej 2x, plnič Novol šedý, odmašťovač Novol 780, laminovací sada 710, tmel Novol Fiber, páska, SIA P400 2x a P1500 2x, antistatická utěrka Gerson). Brunox Epoxy: rozpor, viz 08.
+- lakyrmat.cz: 1 813 Kč (2K čirý sprej 2x, plnič Novol šedý, odmašťovač Novol 780, laminovací sada 710, tmel Novol Fiber, páska, SIA P400 2x a P1500 2x, antistatická utěrka Gerson). Brunox Epoxy: rozpor, viz 00-prehled/08.
+  - Doplněno 27. 9.: "2K Pro" čirý je od firmy Peter Kwasny. Aktuální cena na lakyrmat.cz 365 Kč za kus.
 - Claybar Liquid Elements.
-- Nářadí a drobnosti: aku vrtačka + drátěné kotouče, houby, papíry, vapka Parkside, technický vysavač, čistič s efektem krvácení, igelity, izolepy, respirátor s filtrem, turbo větráček.
+- Nářadí a drobnosti: aku vrtačka + drátěné kotouče, houby, papíry, vapka Parkside, technický vysavač, čistič s efektem krvácení, igelity, izolepy, respirátor (polomaska) s filtry, turbo větráky.
 - Pady z Actionu (5 levných).
 
 ## 14. 9. 2026 večer
@@ -18,21 +19,25 @@
 - Spectrum Metallic black sprej 400 ml (vodicí vrstva). Cena neuvedena.
 - Moje Auto Felgi krwawe koło (odželezovač). Cena neuvedena.
 
+## 27.-30. 9. 2026
+- Žádný potvrzený nákup.
+
 ## Doporučeno, ale nepotvrzeno jako koupeno
+- 3. dóza čirého 2K Pro (Kwasny) do rezervy, doporučeno 27. 9. Lakyrmat 365 Kč, Hornbach 459 Kč (dá se rezervovat na prodejně). Důvod: technický list uvádí 0,5-0,75 m2 na dózu při 2 vrstvách, kapota má přes 1 m2. Neaktivovaná vydrží 36 měsíců (využije se na střechu).
 - Torx hlavice T45 a T50, 1/2" (80-150 Kč za kus, železářství).
 - Tekutý vosk do dutin, cca 150 Kč (až po laku).
-- 2+2 dózy (báze + čirý) z téže mícharny na střechu, cca 2 000-2 200 Kč.
+- 2+2 dózy (báze + čirý) z téže mícharny na střechu, cca 2 000-2 200 Kč (jen pokud se střecha bude lakovat bází).
 
 ## Zamítnuto nebo nekoupeno (a proč)
 - Černý plnič: šedý stačí, ostrůvky plniče se podstříknou bází.
 - Vracet šedý plnič: nevracet.
-- Levná černá metalíza z Actionu za 60 Kč jako první vrstva báze: 1K akrylát se nezasíťuje, 2K čirý by ho nadzvedl, dvě neladící metalízy.
+- Levná černá metalíza z Actionu za 60 Kč jako první vrstva báze: 1K akrylát se nezasíťuje, 2K čirý by ho nadzvedl, dvě neladící metalízy. (Jako vodicí vrstva pro broušení je OK, musí se celá zbrousit.)
 - SprayMax 2K Epoxy (cca 450 Kč): Jonda odmítl, má Würth.
-- Brunox Epoxy znovu: Jonda navrhl vzít Brunox místo Würthu, nakonec zůstal Würth.
+- Brunox Epoxy znovu: Jonda navrhl vzít Brunox místo Würthu, nakonec zůstal Würth. Na kapotu Jonda nic kromě plniče nechce.
 - Set BOLL pasta + houbička: nekvalitní.
 - Rotační leštička: kvůli hologramům, upgrade leštičky (cca 5 000 Kč) až když Tuson nebude stačit.
 - Použité přední blatníky z Bazoše: zrušeno, blatníky se nemění.
-- Pískovací plachta na zem: prach jde ze stropu a zpod vrat, ne ze země. Místo toho igelit na strop a pokropit podlahu.
+- Plachta na zem: prach jde ze stropu a zpod vrat. Místo toho igelit na strop a pokropit podlahu.
 - Silikon do lemu: dělá v laku kráterky.
 - Další tmel: Jonda nechce, do lemu jen Würth a případně pružný spárovací tmel/vosk.
 - Konkurence s kódem barvy: kód není k dispozici, skener dal měření, receptura je majetek systému.

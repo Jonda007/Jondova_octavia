@@ -1,4 +1,4 @@
-﻿# Sezení 3 - broušení do plechu, odželezovač na holém plechu, Würth
+# Sezení 3 - broušení do plechu, odželezovač na holém plechu, Würth
 
 DATUM NENÍ ZNÁMÝ (odhad 17.-22. 9. 2026). Pořadí sezení je správné.
 

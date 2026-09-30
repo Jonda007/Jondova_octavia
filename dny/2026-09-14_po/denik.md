@@ -1,4 +1,4 @@
-﻿# 2026-09-14 (pondělí) + noc na 15. 9.
+# 2026-09-14 (pondělí) + noc na 15. 9.
 
 Časy jsou místní (UTC+2), přepočtené z časových razítek konverzace. Datum je JISTÉ.
 
@@ -39,7 +39,7 @@ Jonda přišel s hotovým nákupem materiálu a chtěl kompletní plán opravy. 
 ## Rozhodnutí
 - Šedý plnič Novol se nevrací a černý se nekupuje. Plnič půjde jen na opravená ohniska. Ostrůvky plniče se podstříknou vlastní bází, dokud šedá nezmizí, pak dvě rovnoměrné vrstvy přes celý díl. Asistent přiznal, že s doporučením nákupu přestřelil.
 - Ke konkurenci s kódem barvy nechodit pro kapotu a blatníky. Skener dal měření, ne kód. Receptura je majetek systému té značky. Kapota a blatníky sousedí přes spáru a musí být ze stejné dávky. Střecha s kapotou nesousedí (mezi nimi je sklo), tam může být jiná šarže.
-- Plachtu na zem nekupovat. Prach po třech dnech nepřišel ze země, ale ze stropu a zpod vrat. Igelit dát na strop nad kozy, podlahu v den lakování pokropit vodou, mezeru pod vraty ucpat ručníkem.
+- Plachtu na zem nekupovat. Prach po třech dnech nepřišel ze země, ale ze stropu a zpod vrat. Igelit dát na strop nad kozy, podlahu v den lakování pokropit vodou, mezeru pod vraty ucpat ručníkem. (Poznámka 30. 9.: kozy Jonda nemá, igelit jde prostě na strop, viz 00-prehled/05-rozhodnuti.md.)
 - Lakování původně plánováno na sobotu 19. 9. (čt a pá jsou po setmění).
 
 ## Korekce (kde měl pravdu Jonda)

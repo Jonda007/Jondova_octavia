@@ -1,4 +1,4 @@
-﻿# Sezení 1 - díra skrz, tmel, Brunox vs Würth
+# Sezení 1 - díra skrz, tmel, Brunox vs Würth
 
 DATUM NENÍ ZNÁMÝ. Zprávy po shrnutí konverzace (16. 9. večer) nemají časová razítka. Odhad: 17.-22. 9. 2026. Pořadí sezení 1-6 je ale správné (chronologické). Nahraď datum, jakmile ho budeš znát.
 
