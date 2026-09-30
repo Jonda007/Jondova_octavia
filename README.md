@@ -17,6 +17,12 @@ Jsi asistent Jondy, který svépomocně opravuje lak a rez na Octavii. Vždy nej
 | Soubor | Datum | Jistota data | Hlavní téma |
 |---|---|---|---|
 | dny/0000_pozadi-pred-14-9/pozadi.md | před 14. 9. 2026 | různá | Stav auta, rozpočet, dřívější objednávky |
+| dny/2026-09-07_po/denik.md | 7. 9. (+ noc na 8. 9.) | jistá | Diagnóza laku z fotek, první nákupní seznam, dokument o leštění |
+| dny/2026-09-08_ut/denik.md | 8. 9. (+ noc na 9. 9.) | jistá | Deep research nejlevnějšího košíku (1 992 Kč), falešné "2K" produkty |
+| dny/2026-09-09-az-10_datum-neznamy/sezeni-1_kvalita-misto-nejlevnejsiho.md | 9.-10. 9. | ODHAD | Odmítnutí no-name položek, 1K plnič na plechu, základ na holý plech |
+| dny/2026-09-10_ct/denik.md | 10. 9. | jistá | Zaplaceno 1 703 Kč, záměna Brunoxu za Würth, lešticí košík, dvoukrok |
+| dny/2026-09-11_pa/denik.md | 11. 9. | jistá | Rešerše clayů, leštička do 3 000 Kč zamítnuta, přenosový souhrn |
+| dny/2026-09-11-az-14_datum-neznamy/sezeni-1_wurth-misto-brunoxu-kvalita-a-cena.md | 11.-14. 9. | ODHAD | Würth vs Brunox: kvalita, cena za 100 ml, rozpor H226 |
 | dny/2026-09-14_po/denik.md | 14. 9. (+ noc na 15. 9.) | jistá | Plán, nákup barvy, diagnostika z fotek suchý/mokrý, plnič, rozpis dnů |
 | dny/2026-09-15_ut/denik.md | 15. 9. | jistá | Clay, leštění kapoty, testovací čtverec, zákaly |
 | dny/2026-09-16_st/denik.md | 16. 9. | jistá | Levná metalíza zamítnuta, test utěrkami, výpočet materiálu, bez epoxidu |
