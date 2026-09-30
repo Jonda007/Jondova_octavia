@@ -12,9 +12,16 @@ Značky: [PLATÍ] aktuální. [PŘEKONÁNO] nahrazeno pozdějším rozhodnutím.
 - [PLATÍ] Svislé díly: leštit dvoukrokem (B9.01 na Fine Cut, M3.02 na Micro Cut). Začít zadními dveřmi spolujezdce.
 - [PŘEKONÁNO] "Kapota se nebude lakovat, bude se leštit" (15. 9.).
 - [PLATÍ] Kapota se lakuje celá (rez po celé přední části, zbytkový zákal, metalíza se nedá rozstříkat do ztracena uprostřed plochy).
+- [PLATÍ 7. 9.] Obecně: černá metalíza se nerozstřikuje blenderem do ztracena uprostřed plochy, lakuje se celý díl po spáru.
 - [PLATÍ] Střecha a zadní víko: lakovat (čirý mrtvý / odlupuje se). Střecha později, klidně z jiné dávky.
 - [OTEVŘENÉ] Střecha: jen bezbarvý (podle videa 28. 9.) nebo báze + bezbarvý. Rozhodne test mokrým P800 (viz 00-prehled/04).
 - [PLATÍ] Rotační leštičku nekupovat. Tuson stačí.
+- [PLATÍ 11. 9.] Novou leštičku do 3 000 Kč nekupovat vůbec. Pod 3 000 Kč nic lepšího než Tuson není a zdvih Tusonu se nedá ověřit, takže se nedá zjistit, z čeho by se upgradovalo. Plán: vyleštit jedny dveře, a až bude stroj brzdit (kotouč se zastavuje pod přítlakem, stroj se přehřívá), teprve pak cca 5 000 Kč za Liquid Elements T4200 nebo ShineMate EX610-5/15. Viz dny/2026-09-11_pa/denik.md.
+- [PLATÍ 10. 9.] Na řezný krok brát STŘEDNÍ kotouč, ne tvrdý. Tvrdý na 720W volnoběžné DA zastaví rotaci a kotouč, který se netočí, neřeže vůbec. Řez obstará pasta.
+- [PLATÍ 10. 9.] Dva kotouče stačí (řezný + finišovací). Žlutý z balení Tusonu jako záloha na řezný krok, na finišový ne.
+- [PLATÍ 10. 9.] Na Tuson kotouče 125-135 mm, ne 150 mm.
+- [PLATÍ 10. 9.] Pastu Koch P6.02 One Cut & Finish nepoužívat, dokud není auto nalakované: obsahuje silikony, které dělají v čerstvém laku kráterky.
+- [PLATÍ 10. 9.] Lubrikant na clay a samostatný iron remover nekupovat. Voda + pár kapek autošamponu, a čistič ráfků z Actionu (pokud etiketa dovolí lak, stále neověřeno).
 
 ## Kapota: kde a jak lakovat
 - [PŘEKONÁNO] Kapotu a blatníky sundat na kozy. Jonda kozy nemá a nemá kam díly dát. Sundává jen masku s grilem, kapota zůstává na autě.
@@ -40,6 +47,8 @@ Značky: [PLATÍ] aktuální. [PŘEKONÁNO] nahrazeno pozdějším rozhodnutím.
 
 ## Plnič
 - [PLATÍ] Novol šedý nevracet, černý neshánět.
+- [PLATÍ 8. 9.] Levné "2K" čiré spreje pod 300 Kč nekupovat, nejsou to 2K (chybí aktivační kapsle ve dně). Viz 00-prehled/07.
+- [PLATÍ 8. 9.] Lakýrnický materiál brát z lakyrmat.cz jako z jednoho obchodu. Pokryl 7 z 8 položek za nejnižší nebo druhou nejnižší cenu, rozdíly jinde poštovné nevyrovná.
 - [PLATÍ] Plnič přes celou kapotu (jednotná savost poslední vrstvy). Navrchu všude jedna značka.
 - [PLATÍ, provedení nepotvrzeno] Plán ze sezení 4: Chamäleon jen na body a pás (3 vrstvy, každá o 2 cm širší, spoušť mačkat a pouštět mimo tečku), Novol přes celou kapotu 2 vrstvy.
 - [PLATÍ] Broušení plniče: P400 nasucho + rouno K800 nasucho (postup ze sezení 6, použit 27. 9.).

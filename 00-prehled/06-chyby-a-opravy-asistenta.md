@@ -32,6 +32,27 @@
 23. Vydatnost čirého 1-1,5 m2 na dózu ve výpočtu z 16. 9. platí pro jiné produkty. U Jondova Kwasny 2K Pro je to 0,5-0,75 m2 (viz bod 19), výpočet dokupu čirého z 16. 9. je proto příliš optimistický. Poznámka doplněna do dny/2026-09-16_st/denik.md.
 24. Doplněná verze 00-prehled/02 z 30. 9. psala "Novol použit na obě kola plniče". To nebylo doloženo. Jonda řekl jen "2x lakování plničem, padly 2 plechovky" a není jasné, jestli druhá plechovka byla Novol, nebo Chamäleon. Opraveno v 02 a zůstává otevřené v 08.
 
+## Nepřesnosti a chyby doplněné z konverzace o nákupu (7.-11. 9. 2026)
+Zdroj: samostatná konverzace ze 7.-11. 9. 2026 (příprava a nákup), zapsaná do dny/2026-09-07_po až dny/2026-09-11-az-14_datum-neznamy. Body 25-27 opravují text, který v deníku stál nepřesně. Body 28-34 jsou chyby asistenta z té konverzace, které v deníku vůbec nebyly.
+
+25. Částka za objednávku na lakyrmat.cz. V deníku stálo "zaplaceno 1 813 Kč celkem" (00-prehled/02 a 03, dny/0000_pozadi-pred-14-9/pozadi.md). Správně: košík byl 1 813 Kč, ZAPLACENO bylo 1 703 Kč. Prodejce při platbě nahradil doprodaný Brunox Epoxy 100 ml (269 Kč) rozlévaným Würthem 100 ml (156 Kč). Opraveno v 02, 03, 01 a pozadi.md. Poznámka: 1 813 - 269 + 156 = 1 700, ne 1 703. Rozdíl 3 Kč není vysvětlený, viz 00-prehled/08.
+26. Brunox Epoxy 100 ml. V deníku byl vedený jako ROZPOR ("uložené poznámky říkají, že objednávka dorazila včetně Brunoxu"). Rozpor je vyřešen: Jonda Brunox NEMÁ. Prodejce napsal "Brunox 100ml je bohužel doprodán, máme tu od Wurthu rozlévaný, pokud souhlasíte zaměníme ho" a Jonda souhlasil. Tím se vysvětluje i jeho věta ze 14. 9. "místo Brunoxu má Würth". Také otevřená otázka ze sezení 1 ("skladovost a dokoupení nevyřešeno, v minulosti byl doprodaný") je uzavřená.
+27. Dva různé produkty Würth. Deník vedl jen "Würth antikorozní nátěr / inhibitor 1 l (odkaz autochladek.cz)". Jsou to dva nákupy téhož produktu: rozlévaných 100 ml za 156 Kč jako náhrada Brunoxu z lakyrmat.cz, a litr (750 Kč s DPH / 620 Kč bez DPH). Doplněno v 02. Který z nich šel na kapotu a kdy byl koupen litr, zůstává otevřené (00-prehled/08). Stejně tak cena plniče Novol: deník uvádí 170 Kč podle Jondy, v objednávce lakyrmat.cz je 196 Kč.
+28. Asistent doporučil HB Body C496 jako levnou 2K variantu čirého laku s tím, ať si Jonda ověří aktivátor. Technický list výrobce č. 802 pro 400ml aerosol ale uvádí "No hardener required", takže to 2K vůbec není. Správně: nejlevnější pravý 2K sprej je 2K PRO za 365 Kč (lakyrmat.cz), výrobce Peter Kwasny. Proč: asistent přebral marketingový název z e-shopu místo technického listu, tedy přesně chyba, kterou má tenhle soubor hlídat.
+29. Asistent předložil 7. 9. nákupní návrh s uvedeným součtem 3 910 Kč proti Jondovu rozpočtu 1 500, max 2 000 Kč. Jonda: "To ses posral rikal jsem do 1500 max 2k jak jako 3.9k". Příčina: asistent vybral nejdražší variantu od každé položky (Brunox 523 místo odrezovače za 87, epoxi plnič 480 místo obyčejného za 196, clay disc + lubrikant za 550) a optimalizoval na jeden obchod (konsolidaci), ne na cenu. Po deep research přes pět a více obchodů vyšel tentýž nákup na 1 992 Kč. Pravidlo: rozpočet je zadání, ne doporučení.
+30. Ve stejném košíku asistent špatně sečetl. Uvedl zboží 3 831 Kč, správně 4 160 Kč, tedy celkem 4 239 Kč místo uvedených 3 910 Kč. Pravidlo: každý součet přepočítat, ne opsat.
+31. Asistent doporučil set BOLL pasta B100 + karosářský molitan 150 mm za 356 Kč jako lešticí sadu. Jonda: "co jsou kurva ty kotouce lestici a pasta, to je jak z lidlu". Měl pravdu. Horší je, že asistent slabou kvalitu molitanu sám předtím v rešerši označil a přesto ji do košíku dal, aby vyšla cena. Navíc 150mm kotouč na 125mm talíř zastaví rotaci. Pravidlo: když si sám napíšeš, že je něco slabé, nedávej to do návrhu kvůli ceně.
+32. Asistent přehlédl, že 1K akrylový plnič nedrží na holém plechu a netvoří antikorozní bariéru. Přišel na to Jonda ("plnic pry nedrzi moc na kovu"). Otevřelo to otázku základu na holý plech (SprayMax 2K Epoxy 403,72 Kč vs. HB Body P961 Etch 195 Kč). POZOR na souvislost s pozdějším rozhodnutím: 05 říká "[PLATÍ 28. 9.] holý plech nenechávat přes noc bez ochrany, aspoň jedna lehká vrstva plniče". To je krátkodobá ochrana proti flash rust, ne antikorozní skladba. Nedělat z toho, že 1K plnič na plechu drží.
+33. Asistent doporučil odrezovač Kittfort, což je drogistická značka. Jonda: "to si delas prdel ne? co to ma byt, ja nebudu delat plot ale auto". Měl pravdu.
+34. Asistent nejdřív označil iron remover před clayem za "krok navíc". Rešerše ukázala opak: odželezovač rozpustí kovové částice, takže je clay nemusí trhat mechanicky, a snižuje tím abrazivní kontakt a marring. Opraveno.
+
+## Kde měl pravdu asistent (7.-11. 9.)
+Jonda oponuje často a většinou správně, ale ne vždy. V této konverzaci se nepotvrdily tři jeho námitky:
+- "Odmastnovac je na silikony": antisilikonový odmašťovač (Novol Plus 780) je správný produkt. "Na silikony" znamená, že je odstraňuje.
+- "2k lak co jsi vybral je nejaky noname": 2K PRO je od Peter Kwasny, stejné firmy jako SprayMax.
+- "Laminovací souprava Novol vypada no name a low budget": Novol je velká polská profesionální lakýrnická značka.
+Poučení pro asistenta: ustoupit jen tam, kde má Jonda věcně pravdu. Kde ji nemá, vysvětlit důvod a nemazat dobrý produkt z košíku jen kvůli námitce.
+
 ## Co Jonda dělá dobře, když oponuje
 - Ověřuje tvrzení asistenta z etikety a z technických listů (fotky etiket Würthu, Chamäleonu, BodySoftu, odkazy na e-shopy).
 - Porovnává rady z více zdrojů (GPT, Grok, YouTube).

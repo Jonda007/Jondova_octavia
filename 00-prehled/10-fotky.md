@@ -26,4 +26,19 @@ Fotky jsou v repozitáři ve složce fotky/ jako soubory RRRR-MM-DD_CC_popis.jpe
 | fotky/2026-09-28_15_bodysoft-plechovka.jpeg | 28. 9. | Plechovka HB Body BodySoft 211, 2K polyester filler, beige. |
 | fotky/2026-09-28_16_bodysoft-etiketa.jpeg | 28. 9. | Česká etiketa BodySoftu (P80-120, na dotek 1 h, vytvrzení 5-7 dní). |
 
-Fotky z 14.-26. 9. (mokrý/suchý stav auta, leštění, rez, Würth, plnič, etikety Würthu a Chamäleonu, Spectrum) nejsou v tomto chatu. Když je doplníš, dej je do složky fotky/ a pojmenuj je stejně: DATUM_CC_popis.jpeg a přidej řádek do tabulky.
+### Z konverzace o nákupu (7.-11. 9. 2026)
+Tyhle fotky poslal Jonda v konverzaci o přípravě a nákupu. V repozitáři nejsou. Čísla CC pokračují od 17. Uvnitř sady nevím, co je na které jednotlivé fotce, proto je popis u celé sady. Pojmenuj je v tom pořadí, v jakém je posílal.
+
+| Navržený soubor | Den | Co má být na fotce |
+|---|---|---|
+| fotky/2026-09-07_17_stav-laku-1.jpeg až fotky/2026-09-07_21_stav-laku-5.jpeg | 7. 9. | První sada 5 fotek: stav laku nasucho. Sada obsahovala střechu, kapotu, sloupek / trojúhelník u zrcátka, zadní hranu střechy / C sloupek a zadní víko. Na střeše velké oblasti bez bezbarvého laku s odlupujícími se okraji a tmavé fleky (možná vosk z automyčky). |
+| fotky/2026-09-07_22_skrabance-a-rez-1.jpeg až fotky/2026-09-07_26_skrabance-a-rez-5.jpeg | 7. 9. (noc na 8. 9.) | Druhá sada 5 fotek, poslaná se slovy "Abys pochopil jak moc to mam poskrabany a dodrany". Na fotkách je LEPŠÍ strana auta (druhá je horší): dveře se škrábanci od vjezdu do garáže a od jiných aut, přední blatník s velkými dírami od rzi, zadek vlevo nad kolem. |
+| fotky/2026-09-10_27_dvere-skrabance-1.jpeg až fotky/2026-09-10_31_objednavka-lakyrmat.jpeg | 10. 9. | Sada 5 fotek: škrábance na dveřích, kapota, a snímek potvrzení objednávky z lakyrmat.cz s částkou 1 703 Kč a s textem o záměně Brunoxu za rozlévaný Würth. |
+| fotky/2026-09-10_32_cistic-rafku-action-etiketa.jpeg | 10. 9. | Snímek čističe ráfků Moje Auto Felgi krwawe koło z Actionu (750 ml, 84,90 Kč). Podle něj se má ověřit, jestli smí na lak. |
+| fotky/2026-09-10_33_kosik-alza-1507.jpeg | 10. 9. | Snímek košíku na Alze za 1 507 Kč: Koch B9.01, Koch M3.02, Koch Heavy Cut pad červený 9998311, Koch Micro Cut pad fialový 9998317. |
+| fotky/pred-14-9_34_wurth-eshop-cena.jpeg | 11.-14. 9. (ODHAD) | Snímek z e-shopu Würth: antikorozní nátěr / inhibitor 1 l za 750 Kč s DPH, 620 Kč bez DPH. |
+| fotky/pred-14-9_35_wurth-etiketa-lahvicka.jpeg | 11.-14. 9. (ODHAD) | Foto etikety lahvičky Würth antikorozní nátěr / inhibitor. Text je přepsaný v 00-prehled/07-technicke-poznatky.md (3hodinová reakční doba, přetřít v okně 3-48 h, H226 / H315 / H412, Würth s.r.o. Nepřevázka 137, 29301, vyrobeno v Belgii). |
+
+U posledních dvou řádků není známé datum, proto mají v názvu "pred-14-9" místo data. Až datum zjistíš, přejmenuj je na RRRR-MM-DD_CC_popis.jpeg.
+
+Fotky z 14.-26. 9. (mokrý/suchý stav auta, leštění, rez, Würth, plnič, etikety Würthu a Chamäleonu, Spectrum) nejsou v tomto chatu. Fotky ze 7.-14. 9. jsou v tabulce výše (čísla 17-35). Když je doplníš, dej je do složky fotky/ a pojmenuj je stejně: DATUM_CC_popis.jpeg a přidej řádek do tabulky.

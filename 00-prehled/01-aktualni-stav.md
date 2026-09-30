@@ -6,7 +6,7 @@
 Svépomocná renovace laku a rzi na Škodě Octavii I 1.8T (AGU, 1997, černá metalíza). Jonda, začátečník, pracuje v oblepené suché garáži (obvykle 19 °C, v noci může spadnout k 15 °C), šetří. Kapota zůstává na autě a lakuje se na autě.
 
 ## Hotovo do 26. 9. (podrobně v souborech ve složce dny/)
-- Nákup materiálu (lakyrmat.cz 1 813 Kč, Koch Chemie přes Alzu, claybar, barva namíchaná skenerem, plniče, Würth, spreje). Viz 00-prehled/03-nakupy.md.
+- Nákup materiálu (lakyrmat.cz: košík 1 813 Kč, zaplaceno 1 703 Kč; Koch Chemie přes Alzu 1 507 Kč, claybar, barva namíchaná skenerem, plniče, Würth, spreje). Viz 00-prehled/03-nakupy.md. Příprava a nákup se řešily 7.-11. 9. 2026 v samostatné konverzaci, viz dny/2026-09-07_po až dny/2026-09-11-az-14_datum-neznamy.
 - Auto umyté (Koch Green Star 1:10 předmytí + myčka), claybar (voda + pár kapek jaru), odmaštění Novol 780.
 - Kapota vyleštěná Tusonem (B9.01 + tvrdý pad, doleštění nejměkčím padem s pastou). Testovací čtverec 20x20 cm potvrdil, že čirý uprostřed kapoty žil. Zákaly po hraně u skla a v prolisu zůstaly.
 - Rez na kapotě: povrchová od kamínků shora, zespodu čistý plech, žádný průraz. Na přední části desítky mělkých bodů, cca každých 5 cm. Přední pás vybroušen na plech (P80 excentr, P100, dobroušeno na P400).
