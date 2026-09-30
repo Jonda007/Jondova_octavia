@@ -2,6 +2,11 @@
 
 Tohle jsou díry v deníku. Než se z nich udělá závěr, zeptej se Jondy.
 
+## Vyřešeno konverzací o nákupu (7.-11. 9. 2026, doplněno později)
+- Brunox Epoxy: VYŘEŠENO. Jonda ho nemá. Prodejce lakyrmat.cz ho při platbě nahradil rozlévaným Würthem 100 ml za 156 Kč, protože byl doprodán. Viz 00-prehled/06 bod 26.
+- Částka za objednávku lakyrmat.cz: košík 1 813 Kč, zaplaceno 1 703 Kč. Viz 00-prehled/06 bod 25.
+- Zdvih leštičky Tuson: VYŘEŠENO v tom smyslu, že se zjistit nedá. V originálním návodu není, prodejcovských 21 mm je zkopírovaný marketing. Otázka "má smysl koupit leštičku do 3 000 Kč" je uzavřená: nemá.
+
 ## Vyřešeno od posledně (30. 9.)
 - Kapota je na autě (Jonda 27. 9.: "teď je na autě") a lakuje se na autě v garáži. Otázka "na autě, nebo položená" je uzavřená.
 - Respirátor: Jonda má polomasku s filtry. Zbývá ověřit typ filtrů (viz níže).
@@ -13,13 +18,20 @@ Tohle jsou díry v deníku. Než se z nich udělá závěr, zeptej se Jondy.
 - 27.-30. 9.: data jistá podle času nahrání fotek, kromě: přebroušení kapoty a nový plnič (27. 9. pozdě večer, nebo 28. 9. ráno), otázky k mokrému broušení (tamtéž) a video o střeše (28. 9. pozdě večer, nebo 29. 9.).
 
 ## Materiál
-- Brunox Epoxy: uložené poznámky říkají, že objednávka lakyrmat dorazila včetně Brunox Epoxy 100 ml. Jonda 14. 9. říká, že místo Brunoxu má Würth. Zjistit, jestli Brunox fyzicky má (na kapotu ho stejně nechce).
+- Brunox Epoxy: VYŘEŠENO, Jonda ho nemá (viz sekce výše a 00-prehled/06 bod 26). Text níže platil do doplnění deníku: "uložené poznámky říkají, že objednávka lakyrmat dorazila včetně Brunox Epoxy 100 ml. Jonda 14. 9. říká, že místo Brunoxu má Würth."
 - Které plniče padly: poznámky k sezení 5 říkají celá plechovka Novolu. 27. 9. Jonda: "2x lakování plničem, padly 2 plechovky". Byla druhá plechovka Chamäleon (plán ze sezení 4), nebo druhý Novol? Byl Novol nakonec navrch přes celou kapotu?
 - Kolik plniče zbývá na finální vrstvu přes fleky (případně celou kapotu)? 27. 9. byl zbytek v plechovce, ten šel 27./28. 9. na nové kolo a fleky.
 - Byla koupena 3. dóza čirého Kwasny?
 - Typ filtrů v polomasce: musí být kombinovaný A+P (hnědý + bílý proužek), minimálně A1P2.
 - Časy k bázi od lakýrníka (pauza mezi vrstvami, nejdřív/nejpozději čirý) zatím nezjištěny.
 - Kde a kdy koupen Würth 1 l (odkaz autochladek.cz). Novol 170 Kč: plechovka z lakyrmatu, nebo dokoupená. Cena barvy (2 dózy) a Spectrum spreje neuvedena.
+- Würth existuje ve dvou baleních: rozlévaných 100 ml za 156 Kč z lakyrmat.cz (náhrada Brunoxu) a litr za 750 Kč s DPH / 620 Kč bez DPH. Který z nich šel na kapotu a lem, není doloženo. Litr byl koupen nejdřív po sezení 11.-14. 9., kde Jonda cenu litru teprve porovnával.
+- Cena plniče Novol: deník uvádí 170 Kč podle Jondy, objednávka lakyrmat.cz uvádí 196 Kč. Jde o dvě různé plechovky, nebo je jeden údaj špatný?
+- Součet objednávky nevychází o 3 Kč: 1 813 - 269 (Brunox) + 156 (Würth) = 1 700, zaplaceno 1 703. Rozdíl nevysvětlen.
+- Brusný papír P800 CHYBÍ (na finální zmatnění před bází a na test střechy). Byl koupen?
+- Etiketa čističe ráfků Moje Auto (efekt krvácení): stále neověřeno, jestli smí na lak.
+- Brusné houby: deník uvádí 120-320, konverzace o nákupu 180 a 320. Co skutečně má?
+- Košík za 1 992 Kč z 8. 9.: realizován byl jiný nákup (lakyrmat 1 703 Kč + Alza 1 507 Kč). Které položky z toho košíku nakonec nebyly koupeny?
 
 ## Stav
 - Poslední známý stav 29. 9. večer: fleky s tmelem pod tenkou vrstvou plniče. Proběhlo už srovnání P400 nasucho a finální plnič? A finální broušení?
@@ -32,6 +44,9 @@ Tohle jsou díry v deníku. Než se z nich udělá závěr, zeptej se Jondy.
 - Střecha a zadní víko: nezačato. Test mokrým P800 na střeše neudělán. Analýza videa přes vidIQ neproběhla (nepřišlo schválení), volba celé shlédnutí (25 kreditů) / jen přepis (5 kreditů) nerozhodnuta.
 
 ## Technická nejistota
+- ROZPOR u Würth antikorozního nátěru: e-shop ho popisuje jako disperzní, na vodní bázi, ale etiketa nese H226 (hořlavá kapalina a páry). Čistě vodná disperze hořlavost páry nemívá. Bezpečnostní list nedohledán. Prakticky: pracovat jako s hořlavinou, bez otevřeného ohně a jisker.
+- Základ na holý plech zůstává technicky otevřený, i když Jonda rozhodl nic nekupovat. 1K akrylový plnič na holém plechu nedrží dobře a netvoří antikorozní bariéru (00-prehled/06 bod 32), a 28. 9. byl při broušení tmelu místy odhalen holý plech. Vrstva plniče přes noc je ochrana proti flash rust, ne antikorozní skladba. Až se lak nadzvedne od plechu, tady bude příčina.
+- Datace sezení 9.-10. 9. a 11.-14. 9. je ODHAD, ne jistota. Jistá jsou jen data 7., 8., 10. a 11. 9. (podle časových značek souborů vytvořených asistentem).
 - ROZPOR mokré vs suché broušení 1K plniče:
   - Sezení 6 (asistent): "P1000 pod vodou se nepoužije, 1K plnič nasákne vodu (puchýře pod bází) a Würth se nesmí oplachovat. Zjemnit rounem K800 nasucho."
   - 28. 9. (asistent): plochy jen s plničem pod vodou P1000, protože popis Novol Acrylic Primer uvádí broušení pod vodou P800-P1000 (a etiketa Chamäleonu také P800-1000).
