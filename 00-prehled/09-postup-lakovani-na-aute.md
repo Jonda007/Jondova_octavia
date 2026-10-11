@@ -13,11 +13,11 @@ Sestaveno 27.-29. 9. 2026 pro Jondovu situaci: kapota na autě v garáži, sprej
 - Počítat s cca 2 hodinami v kuse.
 
 ## Den předem
-1. Spadlé plachty přilepit nahoře i dole. Nad kapotou a kolem ní nesmí nic vlát ani spadnout.
+1. Spadlé plachty přilepit nahoře i dole. Nad kapotou a kolem ní nesmí nic vlát ani spadnout. Igelit na stropě: nad kapotou ho podepřít dalším provázkem napříč (pod igelitem), ať tam neplandá a při otevření dveří se nevlní. Vodou ke stropu nelepit (nechytne se, kapky by padaly na kapotu).
 2. Otevřít kapotu, vlhkým hadrem vytřít hrany kapoty a okraje blatníků ve spáře (prach z broušení by proud ze spreje vyfoukl do barvy). Zavřít na doraz.
 3. Plachty u kapoty zaprášené z broušení vyměnit za čisté (staré sbalit prašnou stranou dovnitř, vytřást venku).
 4. Maskování: páska na blatníky těsně u spáry (na blatník, ne na kapotu), přes to fólie. Zakrýt sklo, stěrače (ramena ideálně sundat), světla, nárazník a otvor po mřížce. Fólii u kapoty všude přichytit.
-5. Vlhkým hadrem otřít fólie kolem kapoty a světlo a kabely nad ní.
+5. Vlhkým (vyždímaným) hadrem otřít fólie kolem kapoty, igelit na stropě nad kapotou zespodu a světlo a kabely nad ní.
 6. Kapotu nasucho jemně setřít mikrovláknem, odmastit Novolem 780 (jednou utěrkou nanést, druhou hned setřít).
 7. Světlo nastavit tak, aby byl v kapotě vidět jeho odraz. Všechno zapojit dnes, kabely mimo podlahu, která se bude mokřit. Během stříkání nic nepřepojovat.
 8. Větráky do dveří, 15-20 min foukat ven (vyhnat zvířený prach), vypnout, zavřít.
@@ -26,11 +26,11 @@ Sestaveno 27.-29. 9. 2026 pro Jondovu situaci: kapota na autě v garáži, sprej
 
 ## Den lakování: příprava
 11. Změřit teplotu. Stříkat, až je aspoň 18 °C, nejspíš kolem poledne až odpoledne. Kdyby bylo méně: předtopit, topení aspoň 30 min před stříkáním vypnout a vytáhnout ze zásuvky.
-12. Hodinu předem jemně navlhčit plachty a podlahu (mlhou, bez louží, nic na kapotu a kabely).
+12. Hodinu předem jemně navlhčit plachty na stěnách a podlahu (mlhou, bez louží, nic na kapotu a kabely). Igelit na stropě nekropit, kapky by padaly na kapotu.
 13. Oblečení, ze kterého nepadají chlupy, čepice, rukavice, brýle, maska.
 14. Nanečisto projít pohyb kolem kapoty: z obou stran dosáhnu do středu, nic nepřekáží, vím, kam odložím dózy.
 15. Přetřít kapotu Novolem 780, nechat odpařit, přejet Gersonem bez tlaku (rozbalit, volně zmačkat).
-16. Dveře zavřené, větráky a topení vypnuté.
+16. Dveře zavřené, větráky a topení vypnuté. Od teď dveře neotvírat (průvan rozhoupe stropní igelit a setřese z něj prach).
 
 ## Báze (černá metalíza, 2 dózy)
 17. Třepat 2 min od chrastění kuličky, mezi vrstvami krátce znovu. První stříknutí mimo (karton), pak krátký tah na zkušební plech (báze je málo, šetřit), pak kapota.
@@ -50,7 +50,7 @@ Sestaveno 27.-29. 9. 2026 pro Jondovu situaci: kapota na autě v garáži, sprej
 29. 15-25 cm. 1. vrstva souvislá, ale ne mokrá -> pauza 10-15 min -> 2. vrstva plná a lesklá, pomalu, podle odrazu světla. Na vodorovné kapotě může být plně mokrá, pozor na přední hranu (steče nejsnáz).
 30. Když 1. dóza nevystačí ani na celou první vrstvu, hned aktivovat 3. (než bude potřeba, odstojí).
 31. Když něco steče, nesahat. Řeší se po vytvrzení.
-32. Odejít a zavřít. Za cca 20 min (čirý proti prachu suchý) vyvětrat: nejdřív pár minut jen otevřené dveře, pak větráky foukat ven, ne na kapotu. Do vyvětrání dovnitř jen v masce.
+32. Odejít a zavřít. Za cca 20 min (čirý proti prachu suchý) vyvětrat: dveře otevírat pomalu (stropní igelit), nejdřív pár minut jen otevřené dveře, pak větráky foukat ven, ne na kapotu. Do vyvětrání dovnitř jen v masce.
 33. Pak zavřít a nechat v klidu do druhého dne. Topení (pokud je zima) zapnout až po vyvětrání a cca 2 h, nemířit na kapotu.
 
 ## Potom
