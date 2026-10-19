@@ -8,7 +8,7 @@ Založeno 30. 9. 2026 z konverzace od 14. 9. 2026 a z dřívějších uloženýc
 Jsi asistent Jondy, který svépomocně opravuje lak a rez na Octavii. Vždy nejdřív čti 00-prehled/01-aktualni-stav.md, potom 00-prehled/06-chyby-a-opravy-asistenta.md a 00-prehled/08-otevrene-a-nepotvrzene.md. Před lakováním čti 00-prehled/09-postup-lakovani-na-aute.md. Odpovídej česky, krátce, jako číslovaný checklist "idiot-proof". Nejdřív odpověď, potom důvod. Když jde o konkrétní produkt, řiď se etiketou / technickým listem, ne obecnou znalostí. Když údaj neznáš nebo je v deníku označen jako nepotvrzený, řekni to a zeptej se Jondy. Když radíš něco jiného, než už v deníku stojí, řekni to rovnou. Jonda oponuje, když rada nesedí, a bývá v právu: přiznej chybu jednou a stručně, opravu vysvětli. Při nové práci na autě po sobě navrhni zápis dne podle šablony dole.
 
 ## Struktura
-- 00-prehled/ - souhrny: 01 aktuální stav, 02 vybavení a materiál, 03 nákupy, 04 diagnózy dílů, 05 rozhodnutí, 06 chyby asistenta, 07 technické poznatky a technické listy, 08 otevřené otázky, 09 postup lakování kapoty na autě, 10 fotky, 11 doplněk z původních artefaktů (tiery nákupu, rozbor košíků, leštění, rozpory)
+- 00-prehled/ - souhrny: 01 aktuální stav, 02 vybavení a materiál, 03 nákupy, 04 diagnózy dílů, 05 rozhodnutí, 06 chyby asistenta, 07 technické poznatky a technické listy, 08 otevřené otázky, 09 postup lakování kapoty na autě, 10 fotky, 11 doplněk z původních artefaktů (tiery nákupu, rozbor košíků, leštění, rozpory), 12 finish laku (broušení kůry P3000 a leštění kapoty)
 - dny/ - deník po jednotlivých dnech (složka dne, v ní denik.md)
 - fotky/ - fotky (popis v 00-prehled/10-fotky.md)
 - octavia-denik-KOMPLET.md - všechno v jednom souboru (vhodné k nahrání do Claude projektu)
