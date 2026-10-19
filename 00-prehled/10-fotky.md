@@ -15,6 +15,8 @@ Fotky jsou v repozitáři ve složce fotky/ jako soubory RRRR-MM-DD_CC_popis.jpe
 | [fotky/2026-09-28_08_tmel-u-spary-plech.jpeg](../fotky/2026-09-28_08_tmel-u-spary-plech.jpeg) | 28. 9. | Flek s tmelem u hrany kapoty u spáry, nahoře probroušeno na holý plech. |
 | [fotky/2026-09-28_09_tmelene-fleky.jpeg](../fotky/2026-09-28_09_tmelene-fleky.jpeg) | 28. 9. | Několik fleků s tmelem, kolem tmavé kroužky (starý lak pod plničem). |
 | [fotky/2026-09-29_10_kapota-tmel-pod-tenkym-plnicem.jpeg](../fotky/2026-09-29_10_kapota-tmel-pod-tenkym-plnicem.jpeg) | 29. 9. | Celá kapota: přes 15 fleků s tmelem pod tenkou ochrannou vrstvou plniče, béžová místy prosvítá. |
+| [fotky/2026-10-16_36_kapota-po-cirem-od-skla.jpeg](../fotky/2026-10-16_36_kapota-po-cirem-od-skla.jpeg) | 16. 10. | Kapota den po nástřiku 2K čirého (báze + čirý 15.-16. 10.), pohled šikmo od čelního skla. Souvislý lesk, metalíza, maskování ještě na autě. |
+| [fotky/2026-10-16_37_kapota-po-cirem-zepredu.jpeg](../fotky/2026-10-16_37_kapota-po-cirem-zepredu.jpeg) | 16. 10. | Celá kapota den po čirém, pohled zepředu. Šmouhy u předního okraje (u nárazníku) jsou otisky mastných rukou, ne vada laku. Jonda je s výsledkem moc spokojený. |
 
 ## Chybí, doplň ručně (doporučené názvy)
 | Navržený soubor | Den | Co má být na fotce |
